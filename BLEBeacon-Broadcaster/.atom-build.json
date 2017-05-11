@@ -1,0 +1,8 @@
+{
+ "args": [
+  "nordic-nrf51822-bk"
+ ],
+ "sh": false,
+ "env": {},
+ "port": "JTAG"
+}
